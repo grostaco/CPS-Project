@@ -1,3 +1,2 @@
 # CPS Project
-
-CPS project for university.
+A CPS (Cyber Physical System) project for university.
